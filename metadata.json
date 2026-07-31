@@ -1,0 +1,6 @@
+{
+  "name": "SmartSan",
+  "description": "AI Powered Public Toilet Monitoring System for municipal cleaning staff.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
